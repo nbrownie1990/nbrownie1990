@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nina</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Nina</h1>
 <h2 align="center"> And I've logged in after the lockdown👩🏾‍💻</h2>
 
 
@@ -8,18 +8,19 @@
  <td valign="center" width="50%">
  
 <div align="center">
- <img src="https://user-images.githubusercontent.com/82531854/124768857-4d6c3880-df39-11eb-81a1-45433ae05e24.jpg" alt="banner that says, hey nbrownie :)" width='100%' > 
+ <img src="https://user-images.githubusercontent.com/82531854/124768857-4d6c3880-df39-11eb-81a1-45433ae05e24.jpg" alt="banner that says, hey i am nina :)" width='100%' > 
 
 </div></td>
   
   <td valign="center" width="50%">
 
 <div align="left">
-  
- 
+
+ <div align="left"> <img src="https://media.giphy.com/media/QAPhxHyGNA0vZ2qCt9/giphy.gif" width="180px" height="99px">
+
 
 -  I’m a total beginner and passionated in becoming a self-taught Frontend Developer. 
-- Since April 2021 I've dedicated myself to learn how to code every weekday (8-10 hours). I've already covered some fundamental courses (HTML&CSS, Short Java Course, Data Structures& Algorithms, Design Patterns by <a href= https://codewithmosh.com/>Mosh Hamedani </a>) and currently learning Git and JavaScript.
+- Since April 2021 I've dedicated myself to learn how to code on every weekday (8-10 hours). I've already covered some fundamental courses (HTML&CSS, Short Java Course, Data Structures& Algorithms, Design Patterns by <a href= https://codewithmosh.com/>Mosh Hamedani </a>) and currently learning Git and JavaScript.
 
 - I’m a coffee enthusiast <img src="https://img.icons8.com/office/16/000000/coffee-pot.png"/> 💞️  
     & a plant mom 🌱. 
@@ -31,22 +32,26 @@
   </h3>
 </div></td></tr></table>  
 
-
-## <div align="center"> <b><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px">My Github Stats </b>
+ 
+ 
+ 
+ ## <div align="center"> <b> My GitHub Stats</b> <img src="https://media.giphy.com/media/Q0XM7OBI6njvb8NIET/giphy.gif" width="160px" height="165px"> 
+  <div>
 
   <br/>
     <a href="https://github.com/nbrownie1990/github-readme-stats"><img alt="nbrownie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nbrownie1990&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/nbrownie1990/github-readme-stats"><img alt="nbrownie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbrownie1990&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
   <br/>
+   
 
-## <div align="center"> <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" width="30px" height="35px"> My Learning Path</b>
+  ## <div align="center"> <b> My Learning Path</b> <img src="https://media.giphy.com/media/OrD7Qz01xSSMXhZ7wg/giphy.gif" width="160px" height="165px">
   <div>
   <table><tr>
  <td valign="top" width="50%">
  
 <div align="center">
- <h2> <b> 🚀 Languages & Tools</b> </h2>
+ <h2> <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" width="30px" height="35px""> Languages & Tools</b> </h2>
  </div>
 <div align="center">
   
@@ -63,10 +68,12 @@
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img src="https://img.icons8.com/fluent/48/000000/confluence.png"/>
 
+ 
   
 <td valign="top" width="50%">
 <div align="center">
- <h2> <b> 🔭 Goals</b> </h2>
+ 
+ <h2> <b><img src="https://media.giphy.com/media/JXmfObfO0lBdP27tT9/giphy.gif" width="30px" height="35px""> Goals</b> </h2>
  </div>
 <div align="center">  
 <div align="center">  
