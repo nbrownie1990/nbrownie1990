@@ -1,3 +1,4 @@
+![profile](https://user-images.githubusercontent.com/82531854/124768857-4d6c3880-df39-11eb-81a1-45433ae05e24.jpg)
 
 ### Hi there 👋, my name is Nina
 #### I've logged in after the lockdown
