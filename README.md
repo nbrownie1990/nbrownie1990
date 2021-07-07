@@ -1,9 +1,11 @@
-![profile](https://user-images.githubusercontent.com/82531854/124768857-4d6c3880-df39-11eb-81a1-45433ae05e24.jpg)
+
 
 ### Hi there 👋, my name is Nina
 #### I've logged in after the lockdown
 I’m a total beginner and interested in becoming a self-taught Frontend Developer. I've already covered some fundamental courses (HTML&CSS, Short Java Course, Data Structures& Algorithms, Design Patterns by Mosh Hamedani) and currently learning Git and JavaScript.
 💞️ I’m a coffee enthusiast & a 🌱 plant mom
+
+![profile](https://user-images.githubusercontent.com/82531854/124768857-4d6c3880-df39-11eb-81a1-45433ae05e24.jpg)
 
 Skills: HTML / CSS/ some Fundamentals
 
