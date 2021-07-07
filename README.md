@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Nina</h1>
-<h2 align="center"> And I've logged in after the lockdown👩🏾‍💻</h2>
+<h2 align="center"> and I've logged in after the lockdown👩🏾‍💻</h2>
 
 
 <table><tr>
@@ -20,7 +20,7 @@
 
 
 -  I’m a total beginner and passionated in becoming a self-taught Frontend Developer. 
-- Since April 2021 I've dedicated myself to learn how to code on every weekday (8-10 hours). I've already covered some fundamental courses (HTML&CSS, Short Java Course, Data Structures & Algorithms, Design Patterns by <a href= https://codewithmosh.com/>Mosh Hamedani </a>) and currently learning Git and JavaScript.
+- Since April 2021 I've dedicated myself to learn how to code on every weekday (8-10 hours). I've already covered some fundamental courses (HTML&CSS, Short Java Course, Data Structures & Algorithms, Design Patterns by <a href= "https://codewithmosh.com/" target="_blank" rel="noopener noreferrer">Mosh Hamedani </a>) and currently learning Git and JavaScript.
 
 - I’m a coffee enthusiast <img src="https://img.icons8.com/office/16/000000/coffee-pot.png"/> 💞️  
     & a plant mom 🌱. 
@@ -56,8 +56,8 @@
 <div align="center">
   
 
-- I've already learned the markup-languages, the basics about java and OOP as well as some fundamentals throw my all-access subscription at <a href= https://codewithmosh.com/courses> codewithmosh.com </a>. (Mosh Hamedani is a true expert and passionated teacher and explaines in-depth concepts of each language with best practices and a lot of exercises. )
-- To take a dive into some other practical exercises i also started 'The Web Developer Bootcamp - HTML, CSS, JS, Node, and More!' by Colt Steele
+- I've already learned the markup-languages, the basics about java and OOP as well as some fundamentals throw my all-access subscription at <a href= "https://codewithmosh.com/courses" target="_blank" rel="noopener noreferrer"> codewithmosh.com </a>. (Mosh Hamedani is a true expert and passionated teacher and explaines in-depth concepts of each language with best practices and a lot of exercises. )
+- To take a dive into some other practical exercises I also started <a href= "https://www.udemy.com/course/the-web-developer-bootcamp/" target="_blank" rel="noopener noreferrer">'The Web Developer Bootcamp - HTML, CSS, JS, Node, and More!' </a> by Colt Steele
   
 
   
@@ -78,8 +78,7 @@
 <div align="center">  
 <div align="center">  
 
-- Until now I don't have any working experience. My plan is to build a portfolio and some github repositories. After that i would love to contribute to Open Source-Projects.
- - Get deep into programming and web development and survive this pandemic!
+-  - Get deep into programming and web development and survive this pandemic: Until now I don't have any working experience. My plan is to build a portfolio and some github repositories. After that i would love to contribute to Open Source-Projects.
  - There is so much to learn! <img src="https://img.icons8.com/emoji/20/000000/smiling-face-with-heart-eyes.png"/> :
 
  - Clean Coding & Refactoring <img src="https://img.icons8.com/ios/50/000000/laptop-coding.png"/>
