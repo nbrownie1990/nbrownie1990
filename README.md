@@ -5,6 +5,9 @@
 I’m a total beginner and interested in becoming a self-taught Frontend Developer. I've already covered some fundamental courses (HTML&CSS, Short Java Course, Data Structures& Algorithms, Design Patterns by Mosh Hamedani) and currently learning Git and JavaScript.
 💞️ I’m a coffee enthusiast & a 🌱 plant mom
 
+<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/82531854/124768857-4d6c3880-df39-11eb-81a1-45433ae05e24.jpg"><img src="https://user-images.githubusercontent.com/82531854/124768857-4d6c3880-df39-11eb-81a1-45433ae05e24.jpg" alt="banner that says, hey nbrownie :)" style="max-width:100%;"></a>
+
+
 ![profile](https://user-images.githubusercontent.com/82531854/124768857-4d6c3880-df39-11eb-81a1-45433ae05e24.jpg)
 
 Skills: HTML / CSS/ some Fundamentals
