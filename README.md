@@ -58,9 +58,9 @@
   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img src="https://img.icons8.com/fluent/48/000000/confluence.png"/>
 
   
@@ -71,8 +71,16 @@
 <div align="center">  
 <div align="center">  
 
-- Get deep into programming and web development and survive this pandemic!
 - Until now I don't have any working experience. My plan is to build a portfolio and some github repositories. After that i would love to contribute to Open Source-Projects.
+ - Get deep into programming and web development and survive this pandemic!
+ - There is so much to learn! <img src="https://img.icons8.com/emoji/20/000000/smiling-face-with-heart-eyes.png"/> :
+
+ - Clean Coding & Refactoring <img src="https://img.icons8.com/ios/50/000000/laptop-coding.png"/>
+ 
+ - Unit-Testing <img src="https://img.icons8.com/ios-glyphs/30/000000/org-unit.png"/>
+ 
+
+ 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
@@ -87,11 +95,6 @@
  <img src="https://img.icons8.com/color/48/000000/jira.png"/>
  <img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png"/>
  
- - Clean Coding & Refactoring <img src="https://img.icons8.com/ios/50/000000/laptop-coding.png"/>
- 
- - Unit-Testing <img src="https://img.icons8.com/ios-glyphs/30/000000/org-unit.png"/>
- 
- - ... (There is so much to learn! <img src="https://img.icons8.com/emoji/20/000000/smiling-face-with-heart-eyes.png"/>)
  
 <!--<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />    
@@ -110,11 +113,10 @@
 ## <div align="center"> <b> Profiles</b>
   <div>
     
-
+<div align="center"> 
+ <div>
   
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nbrownie1990) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/nbrownie1990)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/nbrownie1990)  
-
-![Profile views](https://gpvc.arturio.dev/nbrownie1990)  
 
 
 
