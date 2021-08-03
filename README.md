@@ -68,7 +68,7 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img src="https://img.icons8.com/fluent/48/000000/confluence.png"/>
-- Frameworks i've worked with: Bootstrap, Bulma, Tailwind CSS
+Frameworks i've worked with: Bootstrap, Bulma
  
   
 <td valign="top" width="50%">
