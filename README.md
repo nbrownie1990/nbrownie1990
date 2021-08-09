@@ -67,7 +67,7 @@ Frameworks i've worked with: Bootstrap, Bulma
 <td valign="top" width="50%">
 <div align="center">
  
- <h2> <b><img src="https://media.giphy.com/media/JXmfObfO0lBdP27tT9/giphy.gif" width="30px" height="35px""> Goals</b> </h2>
+ <h2> <b><img src="https://media.giphy.com/media/JXmfObfO0lBdP27tT9/giphy.gif" width="30px" height="35px""> Looking forward to</b> </h2>
  </div>
 <div align="center">  
 <div align="center">  
