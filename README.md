@@ -35,14 +35,7 @@
  
  
  
- ## <div align="center"> <b> My GitHub Stats</b> <img src="https://media.giphy.com/media/Q0XM7OBI6njvb8NIET/giphy.gif" width="160px" height="165px"> 
-  <div>
 
-  <br/>
-    <a href="https://github.com/nbrownie1990/github-readme-stats"><img alt="nbrownie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nbrownie1990&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/nbrownie1990/github-readme-stats"><img alt="nbrownie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbrownie1990&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-  <br/>
    
 
   ## <div align="center"> <b> My Learning Path</b> <img src="https://media.giphy.com/media/OrD7Qz01xSSMXhZ7wg/giphy.gif" width="160px" height="165px">
