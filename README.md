@@ -20,7 +20,6 @@
  
  <table><tr>
   <td valign="center" width="100%">
-
 <div align="left">
 
  <div align="left"> <img src="https://media.giphy.com/media/QAPhxHyGNA0vZ2qCt9/giphy.gif" width="180px" height="99px">
@@ -37,13 +36,13 @@
 </div></td>
 </tr></table>  
  
- 
- 
-
-   
 
   ## <div align="center"> <b> My Learning Path</b> <img src="https://media.giphy.com/media/OrD7Qz01xSSMXhZ7wg/giphy.gif" width="160px" height="165px">
   <div>
+   
+ 
+   
+   
   <table><tr>
  <td valign="top" width="50%">
  
@@ -67,7 +66,11 @@
 <img src="https://img.icons8.com/fluent/48/000000/confluence.png"/>
 Frameworks i've worked with: Bootstrap, Bulma
  
+</div></td></table> 
+   
   
+  
+<table><tr>
 <td valign="top" width="50%">
 <div align="center">
  
@@ -76,7 +79,7 @@ Frameworks i've worked with: Bootstrap, Bulma
 <div align="center">  
 <div align="center">  
 
--  - Get deep into programming and web development and survive this pandemic: Until now I don't have any working experience. My plan is to build a portfolio and some github repositories. After that i would love to contribute to Open Source-Projects.
+-  Get deep into programming and web development and survive this pandemic: Until now I don't have any working experience. My plan is to build a portfolio and some github repositories. After that i would love to contribute to Open Source-Projects.
  - There is so much to learn! <img src="https://img.icons8.com/emoji/20/000000/smiling-face-with-heart-eyes.png"/> :
 
  - Clean Coding & Refactoring <img src="https://img.icons8.com/ios/50/000000/laptop-coding.png"/>
@@ -111,6 +114,7 @@ Frameworks i've worked with: Bootstrap, Bulma
    -->
 
 </div></td></table> 
+   
    
    
 ## <div align="center"> <b> Profiles</b>
