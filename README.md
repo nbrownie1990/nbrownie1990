@@ -1,8 +1,20 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Nina</h1>
-<h2 align="center"> and I've logged in after the lockdown👩🏾‍💻</h2>
+<table><tr>
+ <td valign="center" width="50%">
+ 
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/82531854/124768857-4d6c3880-df39-11eb-81a1-45433ae05e24.jpg" alt="banner that says, hey i am nina :)" width='100%' > 
 
+</div>
+ </td>
+<td valign="center" width="50%">
+ 
+<div align="center">
+<h2> and I've logged in after the lockdown👩🏾‍💻</h2>
+</div>
+ </td>
 
 <table><tr>
  <td valign="center" width="50%">
@@ -10,9 +22,11 @@
 <div align="center">
  <img src="https://user-images.githubusercontent.com/82531854/124768857-4d6c3880-df39-11eb-81a1-45433ae05e24.jpg" alt="banner that says, hey i am nina :)" width='100%' > 
 
-</div></td>
+</div></td></tr></table>  
   
-  <td valign="center" width="50%">
+ 
+ <table><tr>
+  <td valign="center" width="100%">
 
 <div align="left">
 
@@ -27,11 +41,8 @@
    
 - I’m looking to collaborate on **OpenSource Projects** soon! That is a great opportunity to learn 👯
 
-  
-   
-  </h3>
-</div></td></tr></table>  
-
+</div></td>
+</tr></table>  
  
  
  
