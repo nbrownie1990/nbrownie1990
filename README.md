@@ -12,16 +12,9 @@
 <td valign="center" width="50%">
  
 <div align="center">
-<h2> and I've logged in after the lockdown👩🏾‍💻</h2>
+<h2> ...and I've logged in after the lockdown👩🏾‍💻</h2>
 </div>
  </td>
-
-<table><tr>
- <td valign="center" width="50%">
- 
-<div align="center">
- <img src="https://user-images.githubusercontent.com/82531854/124768857-4d6c3880-df39-11eb-81a1-45433ae05e24.jpg" alt="banner that says, hey i am nina :)" width='100%' > 
-
 </div></td></tr></table>  
   
  
