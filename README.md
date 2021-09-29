@@ -64,6 +64,8 @@
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img src="https://img.icons8.com/fluent/48/000000/confluence.png"/>
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+ <img src="https://img.icons8.com/color/48/000000/sass.png"/>
 Frameworks i've worked with: Bootstrap, Bulma
  
 </div></td></table> 
@@ -87,9 +89,6 @@ Frameworks i've worked with: Bootstrap, Bulma
  - Unit-Testing <img src="https://img.icons8.com/ios-glyphs/30/000000/org-unit.png"/>
  
 
- 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
- <img src="https://img.icons8.com/color/48/000000/sass.png"/>
  <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /> 
