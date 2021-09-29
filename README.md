@@ -66,6 +66,9 @@
 <img src="https://img.icons8.com/fluent/48/000000/confluence.png"/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> 
+  
 Frameworks i've worked with: Bootstrap, Bulma
  
 </div></td></table> 
@@ -92,10 +95,7 @@ Frameworks i've worked with: Bootstrap, Bulma
  <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /> 
- 
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
  <img src="https://img.icons8.com/color/48/000000/jira.png"/>
  <img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png"/>
