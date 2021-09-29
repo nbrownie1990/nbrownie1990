@@ -79,20 +79,10 @@ Frameworks i've also worked with: Bulma
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>  
 
-
-
-
 </div>
 <br />
 
  
- 
- 
-
-  
- 
-  
-   
   
   
 <table><tr>
@@ -107,9 +97,9 @@ Frameworks i've also worked with: Bulma
 -  Get deep into programming and web development and survive this pandemic: Until now I don't have any working experience. My plan is to build a portfolio and some github repositories. After that i would love to contribute to Open Source-Projects.
  - There is so much to learn! <img src="https://img.icons8.com/emoji/20/000000/smiling-face-with-heart-eyes.png"/> :
 
- - Clean Coding & Refactoring <img src="https://img.icons8.com/ios/50/000000/laptop-coding.png"/>
+ - Get more practice in clean Coding & refactoring 
  - All about DevOps
- - Unit-Testing, Integretation-Testing... <img src="https://img.icons8.com/ios-glyphs/30/000000/org-unit.png"/>
+ - Unit-Testing, Integretation-Testing... 
  - CI/CD-Pipelines 
  - ...
  
