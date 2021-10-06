@@ -26,7 +26,7 @@
 
 
 -  I’m a CodeNewbie and passionated in becoming a self-taught Web Developer and get one foot (ore two) in the door of this branch.
-- Since April 2021 I've dedicated myself to learn how to code on every weekday (8-10 hours). I've already covered some fundamental courses (HTML&CSS, JavaScript, Java , Data Structures & Algorithms, Design Patterns and Git) by <a href= "https://codewithmosh.com/" target="_blank" rel="noopener noreferrer">Mosh Hamedani </a>). Recently I graduated his Node.js-Course, which includes working with MongoDB, express and writing Unit- & Integration-Tests.
+- Since April 2021 I've dedicated myself to learn how to code on every weekday (8-10 hours). I've already covered some fundamental courses (HTML&CSS, JavaScript, Java , Data Structures & Algorithms, Design Patterns and Git) by <a href= "https://codewithmosh.com/" target="_blank" rel="noopener noreferrer">Mosh Hamedani </a>. Recently I graduated his Node.js-Course, which includes working with MongoDB, express and writing Unit- & Integration-Tests.
 
 - I’m a coffee enthusiast <img src="https://img.icons8.com/office/16/000000/coffee-pot.png"/> 💞️, a plant mom 🌱 and listening to podcast (about programming) a lot 🎧. 
    
@@ -98,9 +98,8 @@
 My next Steps:
 
  - Eat-Sleep-Code&Learn-Repeat (own projects, train with <a href="https://www.codewars.com/"> codewars</a>, watch tutorials without getting into tutorial-hell)
- - Get more practice in clean Coding & refactoring 
- - Learn as much as i can about DevOps
- - CI/CD-Pipelines 
+ - Get more practice in Clean Coding & Refactoring, working with Databases
+ - Learn as much as i can about DevOps (Best Practices, Testautomatisation, CI/CD-Pipelines, Container, Infrastructure as Code...)
  - ...
  
 ### On the "Next-to-learn-list": 
