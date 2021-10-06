@@ -93,9 +93,11 @@
 <div align="center">  
 <div align="center">  
 
--  Get deep into programming and learn as much as i can and discover my niche in the huge range of opportunities in the world of software development.
- - There is so much to learn! <img src="https://img.icons8.com/emoji/20/000000/smiling-face-with-heart-eyes.png"/> :
+-  Get deep into programming and learn as much as i can and discover my niche in the huge range of opportunities in the world of software development. (There is so much to learn! <img src="https://img.icons8.com/emoji/20/000000/smiling-face-with-heart-eyes.png"/>)
+ 
+My next Steps:
 
+ - Eat-Sleep-Code&Learn-Repeat (own projects, train with <a href="https://www.codewars.com/"> codewars</a>, watch tutorials without getting into tutorial-hell)
  - Get more practice in clean Coding & refactoring 
  - Learn as much as i can about DevOps
  - CI/CD-Pipelines 
