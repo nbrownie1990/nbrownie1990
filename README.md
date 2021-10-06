@@ -25,13 +25,13 @@
  <div align="left"> <img src="https://media.giphy.com/media/QAPhxHyGNA0vZ2qCt9/giphy.gif" width="180px" height="99px">
 
 
--  I’m a total beginner and passionated in becoming a self-taught Web Developer. 
-- Since April 2021 I've dedicated myself to learn how to code on every weekday (8-10 hours). I've already covered some fundamental courses (HTML&CSS, Short Java Course, Data Structures & Algorithms, Design Patterns by <a href= "https://codewithmosh.com/" target="_blank" rel="noopener noreferrer">Mosh Hamedani </a>) and currently learning Git and JavaScript.
+-  I’m a CodeNewbie and passionated in becoming a self-taught Web Developer and get one foot (ore two) in the door of this branch.
+- Since April 2021 I've dedicated myself to learn how to code on every weekday (8-10 hours). I've already covered some fundamental courses (HTML&CSS, JavaScript, Java , Data Structures & Algorithms, Design Patterns and Git) by <a href= "https://codewithmosh.com/" target="_blank" rel="noopener noreferrer">Mosh Hamedani </a>). Recently I graduated his Node.js-Course, which includes working with MongoDB, express and writing Unit- & Integration-Tests.
 
-- I’m a coffee enthusiast <img src="https://img.icons8.com/office/16/000000/coffee-pot.png"/> 💞️  
-    & a plant mom 🌱. 
+- I’m a coffee enthusiast <img src="https://img.icons8.com/office/16/000000/coffee-pot.png"/> 💞️, a plant mom 🌱 and listening to podcast (about programming) a lot 🎧. 
    
-- I’m looking to collaborate on **OpenSource Projects** soon! That is a great opportunity to learn 👯
+- I gain experience in open source through the Hacktoberfest 2021 🍂 💻 and have written my <a href="https://dev.to/nbrownie1990/so-much-better-than-the-oktoberfest-first-steps-in-open-source-2k2e">first post</a> about it in the dev.to community :)
+ ! That is a great opportunity to learn 👯
 
 </div></td>
 </tr></table>  
@@ -45,8 +45,8 @@
 <div align="center">
   
 
-- I've already learned the markup-languages, the basics about java and OOP as well as some fundamentals throw my all-access subscription at <a href= "https://codewithmosh.com/courses" target="_blank" rel="noopener noreferrer"> codewithmosh.com </a>. (Mosh Hamedani is a true expert and passionated teacher and explaines in-depth concepts of each language with best practices and a lot of exercises. )
-- To take a dive into some other practical exercises I also started <a href= "https://www.udemy.com/course/the-web-developer-bootcamp/" target="_blank" rel="noopener noreferrer">'The Web Developer Bootcamp - HTML, CSS, JS, Node, and More!' </a> by Colt Steele
+- I've already learned the markup-languages, the basics about java and OOP as well as some fundamentals through my all-access subscription at <a href= "https://codewithmosh.com/courses" target="_blank" rel="noopener noreferrer"> codewithmosh.com </a>. (Mosh Hamedani is a true expert and passionated teacher and explaines in-depth concepts of each language with best practices and a lot of exercises. )
+- To take a dive into some other practical exercises I also started <a href= "https://www.udemy.com/course/the-web-developer-bootcamp/" target="_blank" rel="noopener noreferrer">'The Web Developer Bootcamp - HTML, CSS, JS, Node, and More!' </a> - Udemy Course by Colt Steele.
   
   
 <div align="center">
@@ -93,43 +93,35 @@
 <div align="center">  
 <div align="center">  
 
--  Get deep into programming and web development and survive this pandemic: Until now I don't have any working experience. My plan is to build a portfolio and some github repositories. After that i would love to contribute to Open Source-Projects.
+-  Get deep into programming and learn as much as i can and discover my niche in the huge range of opportunities in the world of software development.
  - There is so much to learn! <img src="https://img.icons8.com/emoji/20/000000/smiling-face-with-heart-eyes.png"/> :
 
  - Get more practice in clean Coding & refactoring 
- - All about DevOps
- - Unit-Testing, Integretation-Testing... 
+ - Learn as much as i can about DevOps
  - CI/CD-Pipelines 
  - ...
  
 ### On the "Next-to-learn-list": 
 <div align="center">  
+ 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
 <img src="https://img.icons8.com/color/48/000000/jira.png"/>
-
+...
    
 </div></td></table> 
    
    
    
-## <div align="center"> <b> Profiles</b>
-  <div>
-    
-<div align="center"> 
- <div>
-  
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nbrownie1990) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/nbrownie1990)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15637451/nbrownie1990?tab=profile)  
-
 
 
  
