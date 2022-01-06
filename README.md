@@ -100,8 +100,7 @@
 My next Steps:
 
  - Eat-Sleep-Code&Learn-Repeat (work on own projects, train with <a href="https://www.codewars.com/"> codewars</a>, watch tutorials without getting into tutorial-hell)
- - Get more practice in Clean Coding & Refactoring, working with Databases
- - Learn as much as i can about DevOps (Best Practices, Testautomatisation, CI/CD-Pipelines, Container, Infrastructure as Code...)
+ - Get a job as a software-developer!
  - ...
  
    
