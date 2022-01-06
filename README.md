@@ -47,8 +47,9 @@
 <div align="center">
   
 
-- I've already learned the markup-languages, the basics about java and OOP as well as some fundamentals through my all-access subscription at <a href= "https://codewithmosh.com/courses" target="_blank" rel="noopener noreferrer"> codewithmosh.com </a>. (Mosh Hamedani is a true expert and passionated teacher and explaines in-depth concepts of each language with best practices and a lot of exercises. )
-- To take a dive into some other practical exercises I also started <a href= "https://www.udemy.com/course/the-web-developer-bootcamp/" target="_blank" rel="noopener noreferrer">'The Web Developer Bootcamp - HTML, CSS, JS, Node, and More!' </a> - Udemy Course by Colt Steele.
+- I've already learned the markup-languages, the basics about java and OOP as well as some fundamentals through my all-access subscription at <a href= "https://codewithmosh.com/courses" target="_blank" rel="noopener noreferrer"> codewithmosh.com</a>. (Mosh Hamedani is a true expert and passionated teacher and explaines in-depth concepts of each language with best practices and a lot of exercises. )
+- To take a dive into some other practical exercises I also taked the course: <a href= "https://www.udemy.com/course/the-web-developer-bootcamp/" target="_blank" rel="noopener noreferrer">'The Web Developer Bootcamp - HTML, CSS, JS, Node, and More!' </a> - Udemy Course by Colt Steele.
+- To improve my knowledge of Spring Boot I started my capstone-project and attended the following courses: <a href= "https://amigoscode.com/courses" target="_blank" rel="noopener noreferrer">'Fullstack SpringBoot & React' and 'Spring Data JPA' </a>  and began the 'Spring Security'-Course by Amigoscode.
 - If you want to know more go to my <a href= "https://www.ninabraunger.de" target="_blank" rel="noopener noreferrer"> portfolio-page </a> (in german language) 
   
   
