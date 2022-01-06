@@ -26,13 +26,15 @@
 
 
 -  I’m a CodeNewbie and passionated in becoming a self-taught Web Developer and get one foot (ore two) in the door of this branch.
-- Since April 2021 I've dedicated myself to learn how to code on every weekday (8-10 hours). I've already covered some fundamental courses (HTML&CSS, JavaScript, Java , Data Structures & Algorithms, Design Patterns and Git) by <a href= "https://codewithmosh.com/" target="_blank" rel="noopener noreferrer">Mosh Hamedani </a>. Recently I graduated his Node.js-Course, which includes working with MongoDB, express and writing Unit- & Integration-Tests.
+- Since April 2021 I've dedicated myself to learn how to code on every weekday (8-10 hours). I've already covered some fundamental courses (HTML&CSS, JavaScript, Java, Data Structures & Algorithms, Design Patterns and Git) by <a href= "https://codewithmosh.com/" target="_blank" rel="noopener noreferrer">Mosh Hamedani </a>. I also can recommend his really good Docker-Course as well as his Node.js-Course, which includes working with MongoDB, express and writing Unit- & Integration-Tests.
 
 - I’m a coffee enthusiast <img src="https://img.icons8.com/office/16/000000/coffee-pot.png"/> 💞️, a plant mom 🌱 and listening to podcast (about programming) a lot 🎧. 
    
 - I gain experience in open source through the Hacktoberfest 2021 🍂 💻 and have written my <a href="https://dev.to/nbrownie1990/so-much-better-than-the-oktoberfest-first-steps-in-open-source-2k2e">first post</a> about it in the dev.to community :)
  ! That is a great opportunity to learn 👯
 
+- Recently i am working on my fullstack-capstone-project "Jumble- the right place for your stuff" including Spring-Boot, React and PostgreSQL and learning new thing everyday. 
+  
 </div></td>
 </tr></table>  
  
@@ -47,38 +49,37 @@
 
 - I've already learned the markup-languages, the basics about java and OOP as well as some fundamentals through my all-access subscription at <a href= "https://codewithmosh.com/courses" target="_blank" rel="noopener noreferrer"> codewithmosh.com </a>. (Mosh Hamedani is a true expert and passionated teacher and explaines in-depth concepts of each language with best practices and a lot of exercises. )
 - To take a dive into some other practical exercises I also started <a href= "https://www.udemy.com/course/the-web-developer-bootcamp/" target="_blank" rel="noopener noreferrer">'The Web Developer Bootcamp - HTML, CSS, JS, Node, and More!' </a> - Udemy Course by Colt Steele.
+- If you want to know more go to my <a href= "https://www.ninabraunger.de" target="_blank" rel="noopener noreferrer"> portfolio-page </a> (in german language) 
   
   
 <div align="center">
- <h2> <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" width="30px" height="35px""> Languages & Tools</b> </h2>
+ <h2> <b> <img src="https://media.giphy.com/media/2Ygy0khwewLgMSYM0t/giphy.gif" width="30px" height="35px""> Used Languages & Tools</b> </h2>
  </div>
  
-### Frontend:  
+
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /> 
-  </div>  
-
-
-
-### Backend:  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="35" />  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="35" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="35" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="35" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="35" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="35" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="35" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="35" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="35" /> 
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="35" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="35" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="35" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="35" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="35" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />  
 </div>  
+  
 
-</div>
+
 <br />
 
  
@@ -102,22 +103,6 @@ My next Steps:
  - Learn as much as i can about DevOps (Best Practices, Testautomatisation, CI/CD-Pipelines, Container, Infrastructure as Code...)
  - ...
  
-### On the "Next-to-learn-list": 
-<div align="center">  
- 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img src="https://img.icons8.com/color/48/000000/jira.png"/>
-...
    
 </div></td></table> 
    
