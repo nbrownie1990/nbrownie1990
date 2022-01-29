@@ -22,9 +22,6 @@
   <td valign="center" width="100%">
 <div align="left">
 
- <div align="left"> <img src="https://media.giphy.com/media/QAPhxHyGNA0vZ2qCt9/giphy.gif" width="180px" height="99px">
-
-
 -  I’m a CodeNewbie and passionated in becoming a self-taught Web Developer and get one foot (ore two) in the door of this branch.
 - Since April 2021 I've dedicated myself to learn how to code on every weekday (8-10 hours). I've already covered some fundamental courses (HTML&CSS, JavaScript, Java, Data Structures & Algorithms, Design Patterns and Git) by <a href= "https://codewithmosh.com/" target="_blank" rel="noopener noreferrer">Mosh Hamedani </a>. I also can recommend his really good Docker-Course as well as his Node.js-Course, which includes working with MongoDB, express and writing Unit- & Integration-Tests.
 
