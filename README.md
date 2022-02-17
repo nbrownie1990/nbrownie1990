@@ -30,7 +30,7 @@
 - I gain experience in open source through the Hacktoberfest 2021 🍂 💻 and have written my <a href="https://dev.to/nbrownie1990/so-much-better-than-the-oktoberfest-first-steps-in-open-source-2k2e">first post</a> about it in the dev.to community :)
  ! That is a great opportunity to learn 👯
 
-- Recently i am working on my fullstack-capstone-project "Jumble- the right place for your stuff" including Spring-Boot, React and PostgreSQL and learning new thing everyday. 
+- I worked on my fullstack-capstone-project "Jumble- the right place for your stuff" including Spring-Boot, React and PostgreSQL and learning new things everyday. 
   
 </div></td>
 </tr></table>  
@@ -96,9 +96,8 @@
  
 My next Steps:
 
- - Eat-Sleep-Code&Learn-Repeat (work on own projects, train with <a href="https://www.codewars.com/"> codewars</a>, watch tutorials without getting into tutorial-hell)
- - Get a job as a software-developer!
- - ...
+ - Learn a lot and master new challenges as a junior developer at Otto GmbH & Co KG! 🙌
+
  
    
 </div></td></table> 
